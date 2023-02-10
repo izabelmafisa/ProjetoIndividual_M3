@@ -1,0 +1,13 @@
+{
+  "Clientes": [
+      {"Nome": "", "Cpf": "", "Celular": ""},
+      {"Nome": "", "Cpf": "", "Celular": ""},
+      {"Nome": "", "Cpf": "", "Celular": ""}
+      ] 
+,
+  "Funcionários" : [
+      {"Nome": "", "Area": "", "ID": ""},
+      {"Nome": "", "Area": "", "ID": ""},
+      {"Nome": "", "Area": "", "ID": ""}
+  ]
+}
