@@ -1,13 +1,42 @@
 {
-  "Clientes": [
-      {"Nome": "", "Cpf": "", "Celular": ""},
-      {"Nome": "", "Cpf": "", "Celular": ""},
-      {"Nome": "", "Cpf": "", "Celular": ""}
-      ] 
-,
-  "Funcionários" : [
-      {"Nome": "", "Area": "", "ID": ""},
-      {"Nome": "", "Area": "", "ID": ""},
-      {"Nome": "", "Area": "", "ID": ""}
+  "clientes": [
+    {
+      "id": "01",
+      "Nome": "Amanda Pereira",
+      "Cpf": "001.123.744-00",
+      "Idade": "23 anos"
+    },
+    {
+      "id": "02",
+      "Nome": "Marcos Paulo",
+      "Cpf": "002.321.444-01",
+      "Idade": "32 anos"
+    },
+    {
+      "id": "03",
+      "Nome": "Patricia Gurgel",
+      "Cpf": "004.785.455-08",
+      "Idade": "43 anos"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": "04",
+      "Nome": "Fernanda Souza",
+      "Cargo": "Gerente",
+      "Idade": "32 anos"
+    },
+    {
+      "id": "05",
+      "Nome": "Joyce Amanda",
+      "Cargo": "supervisora",
+      "Idade": "33 anos"
+    },
+    {
+      "id": "06",
+      "Nome": "Guilherme Silva",
+      "Cargo": "Vendedor",
+      "Idade": "30 anos"
+    }
   ]
 }
